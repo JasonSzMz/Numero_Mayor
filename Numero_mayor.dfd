@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+"Ingresa el primer nuimero"
+5
+1
+4
+num1
+4
+1
+28
+"Ingresa el segundo nuimero"
+5
+1
+4
+num2
+4
+1
+27
+"Ingresa el tercer nuimero"
+5
+1
+4
+num3
+7
+0
+1
+27
+num1 > num2 and num1 > num3
+7
+0
+1
+26
+num2 >num1 and num2 > num3
+7
+0
+1
+26
+num3 >num2 and num3 > num1
+13
+6
+1
+9
+num_Mayor
+4
+num3
+13
+13
+6
+1
+9
+num_Mayor
+4
+num2
+13
+13
+6
+1
+9
+num_Mayor
+4
+num1
+13
+4
+1
+33
+"El numero mayor es: ", num_Mayor
+1
